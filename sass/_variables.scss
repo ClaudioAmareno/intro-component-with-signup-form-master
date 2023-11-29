@@ -1,0 +1,21 @@
+// Font Family
+$Font-style: 'Poppins', sans-serif;
+
+// Primary corol
+$Red: hsl(0, 100%, 74%);
+$Green: hsl(154, 59%, 51%);
+$Dark-Green: hsl(154, 83%, 25%);
+
+// Neutral corol
+$White: hsl(0, 0%, 100%);
+$Blue: hsl(248, 32%, 49%);
+$Dark-Blue: hsl(249, 10%, 26%) ;
+$Grayish-Blue: hsl(246, 25%, 77%);
+
+// Breakpoints
+$screen-sm: 576px; // Large smartphones
+$screen-md: 768px; // Small tablets
+$screen-lg: 992px; // Tablets
+$screen-xl: 1200px; // Desktops
+$screen-xxl: 1440px; // Large desktops
+$my-screen: 1600px;
