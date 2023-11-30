@@ -15,6 +15,7 @@ body {
 .main {
 	margin: rem(0) rem(26);
 	text-align: center;
+	max-width: rem(1188);
 }
 
 .heading {
@@ -310,7 +311,8 @@ body {
 	}
 
 	.offer-field {
-		margin: rem(70) rem(85) rem(0) rem(0);
+		// margin: rem(70) rem(85) rem(0) rem(0);
+		margin-top: rem(70);
 		padding: rem(16) rem(30);
 		text-align: center;
 	}
@@ -322,7 +324,7 @@ body {
 
 	.form-field {
 		text-align: center;
-		margin-right: rem(85);
+		// margin-right: rem(85);
 		margin-top: rem(150);
 	}
 

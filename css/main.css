@@ -89,6 +89,7 @@ body {
 .main {
   margin: 0rem 1.625rem;
   text-align: center;
+  max-width: 74.25rem;
 }
 
 .heading {
@@ -351,7 +352,7 @@ body {
     line-height: 1.6875rem;
   }
   .offer-field {
-    margin: 4.375rem 5.3125rem 0rem 0rem;
+    margin-top: 4.375rem;
     padding: 1rem 1.875rem;
     text-align: center;
   }
@@ -361,7 +362,6 @@ body {
   }
   .form-field {
     text-align: center;
-    margin-right: 5.3125rem;
     margin-top: 9.375rem;
   }
   .input-form {
